@@ -7,3 +7,6 @@
 [submodule "assignment-4"]
 	path = assignment-4
 	url = https://github.com/leeangela9/assignment-4
+[submodule "project3"]
+	path = project3
+	url = https://github.com/leeangela9/project3.git
